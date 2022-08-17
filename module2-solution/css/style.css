@@ -30,7 +30,6 @@
 }
 
 h2 {
-    background-color: azure;
     text-align: center;
     font-weight: bold;
     position: absolute;
@@ -41,6 +40,19 @@ h2 {
     float: right;
     border-left:3px solid black;
     border-bottom:3px solid black;
+}
+
+.chicken {
+    background-color: #D59898;
+}
+
+.beef {
+    background-color: #C14543;
+    color: white;
+}
+
+.sushi {
+    background-color: #E5D198;
 }
 
 p {
